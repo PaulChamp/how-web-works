@@ -1,0 +1,24 @@
+What is HTTP?
+hyper text transfer protocol. how users get or send data to a server
+What is a URL?
+uniform resource locatior. an adress
+What is DNS?
+domain name system. converts urls to ip adresses
+What is a query string?
+aloows to pass key value pairs into URL
+What are two HTTP verbs and how are they different?
+get: get data from server
+post: send data to server
+What is an HTTP request?
+request from a user to a server
+What is an HTTP response?
+resopnse from a server to a user
+What is an HTTP header? Give a couple examples of request and response headers you have seen.
+provides additional info ab the request or respone
+request: cokkie, host
+response: cache-control, content-type
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+the browser makes the name into an IP adress
+requests to the IP address; sends response
+browser makes a DOM from the HTML
+browser then makes a seperate HTTP
